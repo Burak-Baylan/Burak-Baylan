@@ -1,6 +1,5 @@
 �<h1 align="center">Hi 👋, I'm Burak</h1>
 
-### GitHub Analytics
 <p align="center">
 <a href="https://github.com/Burak-Baylan">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Burak-Baylan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true"%20alt="Burak-Baylan"/>
