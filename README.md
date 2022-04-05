@@ -13,11 +13,11 @@
 
 ### My Apps
 
-· [Human Benchmark](https://play.google.com/store/apps/details?id=com.bluecannibal.human_benchmark&hl=tr&gl=US)  
-· [My Goal Diary](https://play.google.com/store/apps/details?id=com.diary.mygoaldiary)  
-· [Dışarı Çıkabilir Miyim](https://play.google.com/store/apps/details?id=com.burak.darkabilirmiyim)  
-· [Random Number S](https://play.google.com/store/apps/details?id=com.burak.randomnumbers)  
-· [CS:GO Console Commands](https://play.google.com/store/apps/details?id=com.cscommands.csgoconsolecommands)  
+:star: [Human Benchmark](https://play.google.com/store/apps/details?id=com.bluecannibal.human_benchmark&hl=tr&gl=US)  
+:star: [My Goal Diary](https://play.google.com/store/apps/details?id=com.diary.mygoaldiary)  
+:star: [Dışarı Çıkabilir Miyim](https://play.google.com/store/apps/details?id=com.burak.darkabilirmiyim)  
+:star: [Random Number S](https://play.google.com/store/apps/details?id=com.burak.randomnumbers)  
+:star: [CS:GO Console Commands](https://play.google.com/store/apps/details?id=com.cscommands.csgoconsolecommands)  
 
 ### Social
 <p align="left">
