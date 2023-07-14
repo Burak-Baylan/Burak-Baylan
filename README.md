@@ -1,8 +1,8 @@
 ### My Apps
 
-:star: [Carafe (Social Media App)](https://github.com/Burak-Baylan/Carafe)
-:star: [Human Benchmark](https://play.google.com/store/apps/details?id=com.bluecannibal.human_benchmark&hl=tr&gl=US)
-:star: [Human Benchmark Reaction Traning]([https://play.google.com/store/apps/details?id=com.bluecannibal.reaction_training))
+:star: [Carafe (Social Media App)](https://github.com/Burak-Baylan/Carafe)  
+:star: [Human Benchmark](https://play.google.com/store/apps/details?id=com.bluecannibal.human_benchmark&hl=tr&gl=US)  
+:star: [Human Benchmark Reaction Traning](https://play.google.com/store/apps/details?id=com.bluecannibal.reaction_training)  
 :star: [CS:GO Console Commands](https://play.google.com/store/apps/details?id=com.cscommands.csgoconsolecommands)
 
 ### Social
